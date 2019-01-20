@@ -1,2 +1,3 @@
 # Design-Essay
-[Massimo Vignelli] (file:///Users/user/Documents/vignelli/index.html)
+
+[Massimo Vignelli](https://dominicmcgrath46.github.io/index.html)
